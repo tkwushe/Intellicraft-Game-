@@ -1,0 +1,20 @@
+What is the name of the closest star to Earth?:Proxima Centauri
+What is the name of the largest planet in our solar system?:Jupiter
+What is the process called when a solid turns into a liquid?:Melting
+What is the name of the force that keeps us on the ground?:Gravity
+What is the name of the smallest particle that makes up matter?:Atom
+What is the name of the process by which plants make their own food?:Photosynthesis
+What is the name of the device that lets you see distant objects more clearly?:Telescope
+What is the name of the object that orbits the Earth and reflects sunlight?:Moon
+What is the name of the layer of gas that surrounds the Earth?:Atmosphere
+What is the name of the tool used to measure temperature?:Thermometer
+What is the name of the animal that can change its color to blend in with its surroundings?:Chameleon
+What is the name of the force that pulls objects towards each other?:Gravity
+What is the name of the planet that is sometimes called the "Red Planet"?:Mars
+What is the name of the process by which water turns into water vapor?:Evaporation
+What is the name of the material that is used to build circuits and computers?:Silicon
+What is the name of the device used to magnify small objects?:Microscope
+What is the name of the force that causes objects to move in a circle?:Centripetal force
+What is the name of the process by which water returns to Earth in the form of rain, snow, or hail?:Precipitation
+What is the name of the object that we use to see objects that are far away?:Telescope
+What is the name of the layer of Earth that is made up of tectonic plates?:Lithosphere

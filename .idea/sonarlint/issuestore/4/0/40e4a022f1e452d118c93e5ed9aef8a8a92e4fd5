@@ -1,0 +1,21 @@
+
+f
+java:S1192"PDefine a constant instead of duplicating this literal "Aluminum Sheets" 5 times.(‚ğÏ
+k
+java:S1192)"PDefine a constant instead of duplicating this literal "Titanium plates" 3 times.(Äˆîßûÿÿÿÿ
+Š
+java:S1319"oThe type of "availableCrafts" should be an interface such as "List" rather than the implementation "ArrayList".(îÊ­ûùÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ü¶àÅ
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ƒ¾Ë
+N	java:S106a"9Replace this use of System.out or System.err by a logger.(›„È£
+N	java:S106d"9Replace this use of System.out or System.err by a logger.(«½èË
+S	java:S106m"9Replace this use of System.out or System.err by a logger.(ä¿˜ûÿÿÿÿ
+N	java:S106t"9Replace this use of System.out or System.err by a logger.(‚Ê„Š
+S	java:S106y"9Replace this use of System.out or System.err by a logger.(¾òö™şÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(‚ŞÊĞşÿÿÿÿ
+T	java:S106 "9Replace this use of System.out or System.err by a logger.(Íô˜ıÿÿÿÿ
+T	java:S106¢"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+T	java:S106°"9Replace this use of System.out or System.err by a logger.(—Ğî€ûÿÿÿÿ
+O	java:S106Â"9Replace this use of System.out or System.err by a logger.(¶ƒå»
+O	java:S106Ğ"9Replace this use of System.out or System.err by a logger.(–Ğ­¢

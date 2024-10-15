@@ -1,0 +1,3 @@
+Name:aru
+Level:11
+Resources Collected:9

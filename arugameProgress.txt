@@ -1,0 +1,1 @@
+|Hydrogen:1|Titanium:1|Nozzle:1|Titanium plates:3|Nitrogen:5|Nozzle:3|Glue:1|Oxygen:0|Nozzle:3|Engine:1|
