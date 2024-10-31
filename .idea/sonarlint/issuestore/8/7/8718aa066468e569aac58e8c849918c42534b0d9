@@ -1,18 +1,0 @@
-
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ºÖðžúÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(“×·ôþÿÿÿÿ
-R
-java:S63532"<Use concise character class syntax '\\d' instead of '[0-9]'.(é¸é¤
-S	java:S1069"9Replace this use of System.out or System.err by a logger.(½Ý£Ùøÿÿÿÿ
-M	java:S106C"9Replace this use of System.out or System.err by a logger.(á…éW
-N	java:S106E"9Replace this use of System.out or System.err by a logger.(üø¨¸
-S	java:S106H"9Replace this use of System.out or System.err by a logger.(Ê…ÈÚúÿÿÿÿ
-S	java:S106O"9Replace this use of System.out or System.err by a logger.(œñ¬Éþÿÿÿÿ
-S	java:S106U"9Replace this use of System.out or System.err by a logger.(—‡Ã˜ûÿÿÿÿ
-N	java:S106["9Replace this use of System.out or System.err by a logger.(Òøæå
-S	java:S106]"9Replace this use of System.out or System.err by a logger.(„ëòÄúÿÿÿÿ
-N	java:S106`"9Replace this use of System.out or System.err by a logger.(ò­Û­
-G
-java:S1068",Remove this unused "username" private field.(íïÌàùÿÿÿÿ
-G
-java:S1068",Remove this unused "password" private field.(»í££ûÿÿÿÿ

@@ -1,14 +1,0 @@
-
-{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ΌΦύÿÿÿÿ8ο‡Ώδω0
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(“Χ·τώÿÿÿÿ8–Ώδω0
-m
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 47 to the 15 allowed.(£νB8—Ώδω0
-V	java:S106Ύ"9Replace this use of System.out or System.err by a logger.(Γ‡ΐή8Ώδω0
-[	java:S106Ώ"9Replace this use of System.out or System.err by a logger.(λ•»ψÿÿÿÿ8Ώδω0
-[	java:S106ΐ"9Replace this use of System.out or System.err by a logger.(–θÿÿÿÿÿ8Ώδω0
-[	java:S106Α"9Replace this use of System.out or System.err by a logger.(λς‹ªώÿÿÿÿ8Ώδω0
-V	java:S106Β"9Replace this use of System.out or System.err by a logger.(‚ΛΉΜ8 Ώδω0
-V	java:S106Γ"9Replace this use of System.out or System.err by a logger.(•ιυ«8 Ώδω0
-[	java:S106Ζ"9Replace this use of System.out or System.err by a logger.(κΧξοψÿÿÿÿ8 Ώδω0
-V	java:S106Π"9Replace this use of System.out or System.err by a logger.(¦¶8 Ώδω0
-[	java:S106Ρ"9Replace this use of System.out or System.err by a logger.(¨”ΗΩÿÿÿÿÿ8 Ώδω0

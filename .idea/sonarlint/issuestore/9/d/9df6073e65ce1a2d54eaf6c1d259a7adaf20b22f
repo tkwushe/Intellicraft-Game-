@@ -1,7 +1,0 @@
-
-`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Íî¢–ıÿÿÿÿ
-[	java:S112'"FDefine and throw a dedicated exception instead of using a generic one.(‘èèØ
-`	java:S1122"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ºÖğúÿÿÿÿ
-\	java:S899"BDo something with the "boolean" value returned by "createNewFile".(ıÅ“Äøÿÿÿÿ
-W	java:S899"BDo something with the "boolean" value returned by "createNewFile".(ä×…§
